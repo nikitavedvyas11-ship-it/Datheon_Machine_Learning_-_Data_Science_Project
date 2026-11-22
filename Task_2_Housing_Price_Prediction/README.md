@@ -326,10 +326,6 @@ Overall, the project provided practical experience in building, evaluating, comp
 
 This project was completed as part of the **Datheon Machine Learning & Data Science Virtual Engineering Residency – Task 2: Real Estate Housing Price Prediction**.
 
-## Author
-
-**Nikita**
-
 Machine Learning & Data Science Enthusiast
 
 ---
